@@ -1,1 +1,2 @@
 # Crytpocurrencies
+A senior manager requested a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this a new investment.The data is not ideal and will need to be processed to fit the machine learning models. Since there is no known output for, the decision has been made to use unsupervised learning, specifically a clustering algorithm. This project includes data visualizations to share findings.
